@@ -4,5 +4,8 @@ module.exports = {
   theme: {
     extend: {},
   },
+  fontFamily:{
+    body:['Quintessential', 'Allison']
+  },
   plugins: [],
 }
